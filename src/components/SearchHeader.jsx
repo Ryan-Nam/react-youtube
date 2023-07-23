@@ -21,10 +21,10 @@ export default function SearchHeader() {
  
 
   return (
-    <header>
-      <Link to='/'>
-        <BsYoutube />
-        <h1>Youtube</h1>
+    <header className='flex border-b'>
+      <Link to='/' className="flex ml-2">
+        <BsYoutube className="text-3xl"/>
+        <h1 className='ml-2'>Youtube</h1>
       </Link>
       <form onSubmit={handleSubmit}>
         <input
