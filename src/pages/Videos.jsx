@@ -26,9 +26,18 @@ export default function Videos() {
 
     // 키들의 연속, videos라는 키 안에, keyword별로 캐시가 되도록 만들어주고...
     // 두번째 인자는 우리가 어떻게 네트워크를 통신할껀지 정의할 수 있는 콜백함수
-    const {isLoading, error, data:videos} = useQuery(['video', keyword], async ()=> {return fetch(`/videos/${keyword ? 'search' : 'popular'}.json`)
-  .then(res => res.json())
-  .then(data => data.items);
+//     const {isLoading, error, data:videos} = useQuery(['video', keyword], async ()=> {return fetch(`/videos/${keyword ? 'search' : 'popular'}.json`)
+//   .then(res => res.json())
+//   .then(data => data.items);
+// });
+
+
+const {isLoading, error, data:videos} = useQuery(['video', keyword], async ()=> {return axios
+  .get(`/videos/${keyword ? 'search' : 'popular'}.json`)
+  .then(res => {
+    console.log(res);
+    return res.data.items
+  });
 });
 
 
@@ -58,9 +67,9 @@ export default function Videos() {
       {/* isLoading 이라면? <p>tag 리턴 */}
     {isLoading && <p>Loading....</p>}
     {error && <p>Error: Something is Wrong</p>}
-    <ul>
+    {videos && <ul>
       {videos.map(video => <VideoCard key={video.id} video={video}/>)}
-      </ul>
+      </ul>}
   
     </>
 
