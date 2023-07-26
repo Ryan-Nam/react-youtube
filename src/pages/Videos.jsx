@@ -3,7 +3,7 @@ import {useParams} from 'react-router-dom';
 import {useQuery} from '@tanstack/react-query';
 // import axios from 'axios';
 import VideoCard from '../components/VideoCard';
-import { search } from '../api/youtube';
+import Youtube, { search } from '../api/youtube';
 import FakeYoutube from '../api/fake-youtube';
 
 export default function Videos() {
@@ -35,7 +35,7 @@ export default function Videos() {
 
 
 const {isLoading, error, data:videos} = useQuery(['video', keyword], () => {
-  const youtube = new FakeYoutube();
+  const youtube = new Youtube();
   return youtube.search(keyword);
 });
 
