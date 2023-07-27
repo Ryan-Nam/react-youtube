@@ -3,13 +3,17 @@ import {useParams} from 'react-router-dom';
 import {useQuery} from '@tanstack/react-query';
 // import axios from 'axios';
 import VideoCard from '../components/VideoCard';
-import Youtube, { search } from '../api/youtube';
+import Youtube, { search } from '../api/Youtube';
 import FakeYoutube from '../api/fake-youtube';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function Videos() {
     
     const {keyword} = useParams();
     // console.log(keyword);
+
+    const {youtube} = useYoutubeApi();
+    // same as const data = useContext(YoutubeApiContext)
 
 
     // react-query axios way
@@ -34,10 +38,7 @@ export default function Videos() {
 // });
 
 
-const {isLoading, error, data:videos} = useQuery(['video', keyword], () => {
-  const youtube = new Youtube();
-  return youtube.search(keyword);
-});
+const {isLoading, error, data:videos} = useQuery(['video', keyword], () => youtube.search(keyword));
 
 
   return (
@@ -46,9 +47,6 @@ const {isLoading, error, data:videos} = useQuery(['video', keyword], () => {
       {keyword ? `🔍${keyword}` : '🔥Hot Trend'}
     </div>
 
-    {/* {data.map((hero) => {
-      return <div key={hero.id} className='text-white'>{hero.snippet.title}</div>
-    })} */}
 
 {/* 
 {videos ? (
