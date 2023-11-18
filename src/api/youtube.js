@@ -3,11 +3,20 @@ export default class Youtube {
     this.apiClient = apiClient;
   }
 
-
-
-  
   async search(keyword) {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
+  }
+
+  // async channelDetail(id) {
+  //   return this.apiClient
+  //     .channels({ params: { part: 'snippet', id } })
+  //     .then((res) => res.data.items[0].snippet);
+  // }
+
+  async channelImageURL(id) {
+    return this.apiClient
+      .channels({ params: { part: 'snippet', id } })
+      .then((res) => res.data.items[0].snippet.thumbnails.default.url);
   }
 
   async #searchByKeyword(keyword) {
