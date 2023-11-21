@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "Q-gj0NzFQDtMoNBC1EdIWoIkUf4",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "AU",
+    "pageInfo": {
+        "totalResults": 830,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FAbbO9k_7qiGXnruJtl8hltE1h0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b7Pl5Rr8ZYk"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-01T19:14:10Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "The BEST of Surfing in 2022",
+                "description": "What a year. 2022 was packed to the gills with everything the surfing world has to offer. Whether it be seemingly endless historic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b7Pl5Rr8ZYk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-01T19:14:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "65gzcl0lL5qRlFprd_P-bosC-I8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fceyDIQpzYY"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-08T17:00:37Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Lucas Chumbo Scores BIG in Morocco #surfing",
+                "description": "When Lucas Chumbo's mind is blown you know things are getting crazy. Our favorite Brazilian charger went exploring with friends ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fceyDIQpzYY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fceyDIQpzYY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fceyDIQpzYY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-08T17:00:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NSGOnV2A2iDv-4kIFkNR4AXKCsA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UtqtjALAGqc"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-13T17:00:31Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "WOW what a heat that was! 😳",
+                "description": "A heat that will forever be burned into our memory banks Dive in for all the action In @kanoaigarashi8567 's latest film: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UtqtjALAGqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UtqtjALAGqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UtqtjALAGqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-13T17:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xkLgd0VqN0OAQmUXoIWPSYERvac",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dHTQL5HCjlc"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-11T19:00:02Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Raw and Unfiltered XXL Teahupo&#39;o",
+                "description": "We've exposed the Endless Summer as a lie. Truth is, most of the world's finer corners get their best waves during winter months ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dHTQL5HCjlc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dHTQL5HCjlc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dHTQL5HCjlc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-06-11T19:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tSnpUQhzBi009UcCA3E1-2D4V5o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9TpURLLOZXY"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-17T17:19:01Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "&quot;This is Like the Ferrari of the Jet Skis&quot;",
+                "description": "Ben Larg breaks down the equipment necessary to have a successful day towing and chasing waves at Nazare #BenLarg ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9TpURLLOZXY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9TpURLLOZXY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9TpURLLOZXY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-17T17:19:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5jNfQ3kD2YX57UT3Fndc0raGM48",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EYlHiTaCoks"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-28T18:00:07Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Perfect Pipeline With Kai Lenny And The GOAT Kelly Slater!",
+                "description": "Kelly Slater joins a surf super team at Pipeline with Kai Lenny and Carissa Moore for these pumping Da Hui Backdoor Shootout ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EYlHiTaCoks/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EYlHiTaCoks/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EYlHiTaCoks/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-28T18:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nnJE68q5SHmiUzDwoi6eITbqJiA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WerAW7UI42M"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-19T16:00:24Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Mick Fanning at PERFECT Pumping Snapper Rocks",
+                "description": "Australia's Gold Coast recently came alive with a never ending run of back-to-back swells. In late April, as the WSL's ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WerAW7UI42M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WerAW7UI42M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WerAW7UI42M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-19T16:00:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iEU_C3o_FL2eqf0u-GjyKToOZok",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1FcQuCDg44w"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-08T17:11:11Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Águila with Leon Glatzer",
+                "description": "Leon Glatzer was born in Hawaii, learned to surf in Costa Rica, represents Germany, and you can enjoy the results of his crazy ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1FcQuCDg44w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1FcQuCDg44w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1FcQuCDg44w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-08T17:11:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NApOA8EzcK1pYZUCqtchIG2nTjw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ma67yOdMQfs"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-23T17:00:15Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
+                "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-23T17:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "I1Jv0EX0K-AX5H2UX9HXULXBiUs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "64TVdQAsxWY"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-09T20:00:01Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Kai Lenny Is BACK | Life Of Kai OFFICIAL TRAILER",
+                "description": "\"Life of Kai\" is back! Kai Lenny continues to redefine what is possible on the world's biggest waves, pushing himself to become the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/64TVdQAsxWY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/64TVdQAsxWY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/64TVdQAsxWY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-09T20:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UI9JtJWqv1KuoDkfOpTU6N68dK0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kFjETSa9N7A"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-22T18:30:01Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Indian Ocean Mega Swell Hits Australia | Filmers @ Large",
+                "description": "Subscribe to our new Red Bull Surfing channel: https://win.gs/SubToRedBullSurfing The Indian Ocean's swell of the century hit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kFjETSa9N7A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kFjETSa9N7A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kFjETSa9N7A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-07-22T18:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NLm0lXvMfsoZoUZbyZXGoFvyvyQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PRPxTztXoOo"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-10T18:00:10Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "MASSIVE Waves in Tahiti | Red Bull Surfing x Surfline 20ft +",
+                "description": "Autumn in the Southern Hemisphere is when swell trains wake from their summer slumber and start to roll out of the Southern ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PRPxTztXoOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PRPxTztXoOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PRPxTztXoOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-10T18:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eCaesQS6ufR5bW5LbcwYdNx9hNc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c6lU-xYRjFA"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-28T18:58:35Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "The World Loves Surfing | Best Of Red Bull Surfing 2021",
+                "description": "What a year. 2021 was packed to the gills with everything the surfing world has to offer. Whether it be world title races, the biggest ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-28T18:58:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iswpmGbq-lRFeULCcpPlqaLGuQM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n9XZJlCB0J8"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-27T19:00:17Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Natxo Gonzalez cleans up as Mundaka delivers the goods [SESSIONS]",
+                "description": "Mundaka: Any reeling tube hound's dream wave. If you've ever been able to chance into a perfect swell at the infamous firing left, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n9XZJlCB0J8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n9XZJlCB0J8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n9XZJlCB0J8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-27T19:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lb6j7V7eT2JT9G4if0AAeS_jrqM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MTAYchtrfXo"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-01T19:00:09Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Was 2022 the BEST Year of Surfing? | BEST OF SURF 2022",
+                "description": "What a year. 2022 was packed to the gills with everything the surfing world has to offer. Whether it be seemingly endless historic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MTAYchtrfXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MTAYchtrfXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MTAYchtrfXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-01T19:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "z4zo4xn45mj3k5Ir1-9lzZPXcWg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "l6_hfl1pqX4"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-26T21:00:46Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Kai Takes His Foil Out In The Gigantic Peaks Of Nazaré | Life Of Kai: Ep3",
+                "description": "Life of Kai, a new series from Indigenous Films and presented by Tag Heuer, rolls on with Episode 3 here on our YouTube ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l6_hfl1pqX4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l6_hfl1pqX4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l6_hfl1pqX4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-26T21:00:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Vhy06YEFtb2p0prlVW44raspCFw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GVhQhaq5S-I"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-18T19:00:04Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "The Pioneers Who Put New Zealand on the Map | Made in New Zealand | Ep2",
+                "description": "Skipping class and surfing go hand and hand. It's a common story that varies lightly from culture to culture and surfer to surfer.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GVhQhaq5S-I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GVhQhaq5S-I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GVhQhaq5S-I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-18T19:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FEBBJATIM1B23jJU5EvhMpat9IA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LoN44rn7240"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-16T19:00:13Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Kai Blows Minds In Huge Conditions At The Gigantes de Nazaré Big Wave Event | Life Of Kai: Ep4",
+                "description": "Life of Kai, a new series from Indigenous Films and presented by Tag Heuer, rolls on with Episode 4 here on Red Bull Surfing.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LoN44rn7240/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LoN44rn7240/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LoN44rn7240/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-16T19:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "01A_-KxE1yHsX8s9tizIrhjZRFw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SS3GcyjacRw"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-28T20:00:11Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Highs and Lows at HISTORIC Pumping Nazare | Life of Kai Season 2",
+                "description": "In this Season 2 opener, Kai heads to Portugal for a historic Nazaré swell where, in the midst of an epic showcase of big-wave ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SS3GcyjacRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SS3GcyjacRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SS3GcyjacRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-28T20:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7wEzB8nWwSW-UxDQ8XDiXI67gaM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lLETx3kYsYA"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-01T19:00:09Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "KAI LENNY&#39;s 24-Hour Strike Mission to TAHITI",
+                "description": "Kai Lenny takes off on a 24-hour strike mission for a tow swell in Tahiti and pushes the limits of what's possible on a surfboard ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lLETx3kYsYA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lLETx3kYsYA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lLETx3kYsYA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-01T19:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uTWByFNaP_BQ6SGfpOl3AVcfbyU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TwZq4P50HnI"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-25T18:01:00Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Day of the Decade at Mavericks? | Life of Kai Season 2",
+                "description": "Kai Lenny, his brother Ridge and Ian Walsh fly to Mavericks in California for what's being hailed as the swell of the decade.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TwZq4P50HnI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TwZq4P50HnI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TwZq4P50HnI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-25T18:01:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "syHfBAOTUu8fxfDW424hH_ceqbQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kQD2_kmYzNI"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-18T17:00:15Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Kai Tries To Keep His Nerve As The Biggest Contest Of His Life Looms | Life Of Kai: Ep5",
+                "description": "What is life like in the final hours before facing some of the biggest waves on Earth? Find out on the final episode of Life of Kai, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kQD2_kmYzNI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kQD2_kmYzNI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kQD2_kmYzNI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-18T17:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "75l6_U1d-YSQULQRvHz5OYHF2vw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XZYfeGX3AzQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-25T19:00:15Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Kai Chases Redemption at Pe&#39;ahi | Life of Kai Season 2",
+                "description": "With the first winter swell hitting Jaws, Kai looks to redeem himself after a tough loss in the Big Wave event last year. By his side is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XZYfeGX3AzQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XZYfeGX3AzQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XZYfeGX3AzQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-25T19:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cf-Ku4n7x-0DKbRaGZjhp6yG3mM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2F0GYhLn97E"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-16T19:09:17Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Scoring Australian Perfection w/ Molly, Kanoa, Morgan and Italo | WSL Championship Tour",
+                "description": "The World's Go Coast To Coast Down Under The Australian leg of the WSL Championship Tour scored a little bit of everything this ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2F0GYhLn97E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2F0GYhLn97E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2F0GYhLn97E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-16T19:09:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mP8BabsdvAZ6w3o2-5PJrxnOpck",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UdHqXIfxiyw"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-27T16:06:53Z",
+                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+                "title": "Kai Lenny Takes on Super Swell Saturday | Life of Kai Season 2",
+                "description": "It's Super Swell Saturday at Jaws and Kai aims to turn in the year's best performance at his home break. But a series of tests, both ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UdHqXIfxiyw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UdHqXIfxiyw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UdHqXIfxiyw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Bull Surfing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-27T16:06:53Z"
+            }
+        }
+    ]
+}

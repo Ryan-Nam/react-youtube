@@ -29,6 +29,7 @@ export default function VideoDetail() {
 
         <div>
           <h2>{title}</h2>
+          {/* send data (channelId, channelTitle) to request Thumbnail data */}
           <ChannelInfo id={channelId} name={channelTitle} />
           <pre>{description}</pre>
         </div>

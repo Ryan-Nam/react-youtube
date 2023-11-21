@@ -43,10 +43,10 @@ export default function Videos() {
 
   return (
     <>
-      <div>
+      {/* <div>
         Video
         {keyword ? `🔍${keyword}` : "🔥Hot Trend"}
-      </div>
+      </div> */}
 
       {/* 
 {videos ? (
