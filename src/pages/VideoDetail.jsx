@@ -37,7 +37,8 @@ export default function VideoDetail() {
       </article>
 
       <section className='basis-2/6'>
-        <RelatedVideos id={video.id} />
+        {/* <RelatedVideos id={video.id} /> */}
+        <RelatedVideos id={channelId} />
       </section>
     </section>
   );

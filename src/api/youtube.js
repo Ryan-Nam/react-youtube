@@ -23,10 +23,11 @@ export default class Youtube {
     return this.apiClient.search({
       params: {
         part: 'snippet',
-        maxResults: 25,
+        maxResults: 10,
         type: 'video',
         // q: keyword,
-        relatedToVideoId: id,
+        // relatedToVideoId: id,
+        channelId: id,
       },
     })
     .then((res) => res.data.items.map((item) => ({ ...item, id: item.id.videoId }))
