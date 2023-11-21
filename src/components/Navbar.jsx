@@ -5,7 +5,7 @@ export default function Navbar() {
     
 
     return (
-        <Link to="/">Youtube</Link>
+        <Link to="/">Youtubess</Link>
     );
 }
 
